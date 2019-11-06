@@ -21,3 +21,7 @@ Se ao final deste processo ainda restarem vértices, significa que há ciclo(s) 
 Grafo para o problema apresentado:
 
 <img src="grafo-do-problema.png">
+
+Solução para o problema apresentado:
+
+<img src="solucao-do-problema.png">
