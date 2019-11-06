@@ -11,6 +11,7 @@ Sendo assim, tarefas a serem desempenhadas em um projeto são representadas por 
 O algoritmo implementado consiste nos seguintes passos:
 
 i) Verificar os vértices que tem grau de entrada zero e adicioná-los a uma lista;
+
 ii) Remover todas as arestas que partem desse vértice e atualizar o grau de entrada dos vértices que estavam ligados a estas arestas.
 
 Repetir os passos i) e ii) até acabarem os vértices com grau de entrada zero.
