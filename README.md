@@ -17,3 +17,7 @@ ii) Remover todas as arestas que partem desse vértice e atualizar o grau de ent
 Repetir os passos i) e ii) até acabarem os vértices com grau de entrada zero.
 
 Se ao final deste processo ainda restarem vértices, significa que há ciclo(s) no grafo e, sendo assim, não há ordem topológica para resolver o problema. Caso contrário a ordem de execução das tarefas (vértices), estarão na sequência correta na lista.
+
+Grafo para o problema apresentado:
+
+<img src="grafo-do-problema.png">
